@@ -227,7 +227,7 @@ local Tab3 = Window:Tab("Player",false)
 Tab3:Label("Player Scripts")
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "TokwaWare";
+    Title = "Da Rizz AimLock";
     Text = "Welcome";
     Icon = "RBXID OR BLANK";
     Duration = "DURATION IN SECONDS";
